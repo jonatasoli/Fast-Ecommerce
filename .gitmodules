@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = git@github.com:jonatasoli/fast-ecommerce-front.git
+[submodule "back"]
+	path = back
+	url = git@github.com:jonatasoli/fast-ecommerce-back.git
