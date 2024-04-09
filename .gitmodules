@@ -4,3 +4,6 @@
 [submodule "back"]
 	path = back
 	url = git@github.com:jonatasoli/fast-ecommerce-back.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/jonatasoli/fast-ecommerce-admin
