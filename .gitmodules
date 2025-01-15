@@ -1,9 +1,9 @@
-[submodule "front"]
-	path = front
-	url = git@github.com:jonatasoli/fast-ecommerce-front.git
 [submodule "back"]
 	path = back
 	url = git@github.com:jonatasoli/fast-ecommerce-back.git
 [submodule "admin"]
 	path = admin
 	url = https://github.com/jonatasoli/fast-ecommerce-admin
+[submodule "fast-ecommerce-template"]
+	path = front-shopping
+	url = git@github.com:jonatasoli/fast-ecommerce-template.git
